@@ -1,0 +1,12 @@
+site_name: E-Heza Docs
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.indexes
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+repo_url: https://github.com/TIP-Global-Health/eheza-documentation
