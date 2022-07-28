@@ -10,3 +10,4 @@ markdown_extensions:
   - md_in_html
 
 repo_url: https://github.com/TIP-Global-Health/eheza-docs
+edit_uri: edit/main/docs/
